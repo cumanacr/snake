@@ -23,3 +23,9 @@ C- Esta es la familia de Goku
 5- Milk
 6- Son Gohan
 7- Son Goten
+
+D- Esta es la familia de Naruto
+1- Minato Namizake
+2- Kushina Uzumaki
+3- Naruto Uzumaki
+4- Hinata Hyuga
