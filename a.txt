@@ -1,6 +1,14 @@
-Esta es la familia de Snake
-Me falto BOSS
-Solid
-Liquid
-Solidus
-Raven
+Familias
+
+A- Esta es la familia de Kus
+1- Cristian
+2- Kenneth
+3- Andrea
+4- Marisol
+
+B- Esta es la familia de Snake
+0- Boss
+1- Solid
+2- Liquid
+3- Solidus
+4- Raven
