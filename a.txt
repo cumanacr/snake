@@ -13,3 +13,13 @@ B- Esta es la familia de Snake
 1- Solid
 2- Liquid
 3- Solidus
+4- Raven
+
+C- Esta es la familia de Goku
+1- Bardock
+2- Gyne
+3- Son Gohan
+4- Son Goku
+5- Milk
+6- Son Gohan
+7- Son Goten
