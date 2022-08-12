@@ -23,3 +23,9 @@ C- Esta es la familia de Goku
 5- Milk
 6- Son Gohan
 7- Son Goten
+
+D- Esta es la familia de Sasuke
+1- Papaá Uchiha
+2- Mamá Uchiha
+3- Itachi
+4- Sasuke
