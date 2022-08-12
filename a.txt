@@ -1,6 +1,8 @@
 Familias
 
 A- Esta es la familia de Kus
+0- Luz
+0- Nidia
 1- Cristian
 2- Kenneth
 3- Andrea
